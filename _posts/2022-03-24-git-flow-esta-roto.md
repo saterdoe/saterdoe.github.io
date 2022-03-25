@@ -18,7 +18,9 @@ Bueno, no hay una respuesta sencilla, es un gran *depende* pero muchas personas 
 
 Por el año 2010 [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) proponía una manera de trabajo que fué adoptada por muchas organizaciones de diversos tamaños, como el propio Vincent menciona en su blog fué tan masivamente aceptado, adoptado y hasta venerado (?) que aún hoy en día se lo considera un estándar.  
 
-Adoptar esta estrategia hoy en día podría ser uno de los mayores errores que una organización podría cometer. Veamos a qué me refiero.
+Adoptar esta estrategia hoy en día podría ser uno de los mayores errores que una organización podría cometer.   
+Veamos a qué me refiero.  
+
 Según lo que git-flow propone la rama *main* y *develop* son sagradas, incorporar nuevas caracteristicas o arreglar errores necesitan de sus propias ramas 
 
 ![git-flow](/img/git-model@2x.png)
