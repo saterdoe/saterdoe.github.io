@@ -1,3 +1,10 @@
+---
+layout: post
+title: Git Flow está roto
+description: o de cómo tu estrategia de branching puede darle ventajas a tu competencia
+tags: Blogging
+---
+
 # Git Flow está roto
 ##### *o de cómo tu estrategia de branching puede darle ventajas a tu competencia*.  
 
